@@ -1,0 +1,31 @@
+.content {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 50px 0;
+}
+
+.btn {
+  width: 200px;
+  height: 100px;
+  border: 1px solid #000;
+  background-color: teal;
+}
+
+.show {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.show button {
+  width: 80%;
+  height: 100px;
+  background-color: teal;
+  border: none;
+}
+
+.text {
+  text-align: center;
+}
+.red {
+  background-color: red;
+}
